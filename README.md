@@ -1,4 +1,4 @@
-# JPC Teck Blog
+# JPC Teck Blog - https://sayingshockeystuff.herokuapp.com/
 ![Screenshot 2022-04-25 221254](https://user-images.githubusercontent.com/91299930/165213149-bc222a6c-37e8-4861-9a5a-bb8a9fce3889.jpg)
 ![Screenshot 2022-04-25 221319](https://user-images.githubusercontent.com/91299930/165213154-a5c5234a-685b-47f3-9fe0-f51b48c0c11e.jpg)
 ![Screenshot 2022-04-25 221335](https://user-images.githubusercontent.com/91299930/165213159-79f6b879-1e23-45d6-9ba6-cffdef8930fa.jpg)
