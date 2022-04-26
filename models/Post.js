@@ -17,13 +17,13 @@ Post.init(
         },
         content: {
             type: DataTypes.TEXT,
-            allowNull: false,
+            allowNull: false
         },
         user_id: {
             type: DataTypes.INTEGER,
             references: {
-                model: 'user',
-                key: 'id'
+              model: 'user',
+              key: 'id'
             }
         }
     },
